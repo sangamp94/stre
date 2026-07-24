@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "maintenance": false,
-  "forceUpdate": false,
-  "minVersion": 1,
-  "latestVersion": 2,
-  "message": "Welcome to Streamify IPTV Player",
-  "updateUrl": "https://strea.site.je/"
-}

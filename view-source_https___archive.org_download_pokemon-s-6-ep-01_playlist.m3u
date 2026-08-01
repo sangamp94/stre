@@ -8598,139 +8598,141 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_News_MP_Chattisgarh_BTS/WDVLive/index
 #EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076/StreamFlex(StreamFlex;JioSTB) JioTvPlus-AndroidTv
 #EXTHTTP:{"cookie":"__hdnea__=st=1785586532~exp=1785608132~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=1f39a570878f337c78009ff649167ea04e2fe837eed0cdd1fa12be6313a0c0e7"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZestHD_BTS/WDVLive/index.mpd
-#EXTINF:-1,PokemonS6EP01.mkv
+#EXTM3U
+#EXTINF:-1 tvg-name="Pokemon - S06E01 - Get the Show on the Road!" tvg-logo="https://image.tmdb.org/t/p/w500/jMC0KtCoU4mMNhH6luzpNy3LIbV.jpg" group-title="Pokemon Season 6",Pokemon - S06E01 - Get the Show on the Road!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP01.mkv
-#EXTINF:-1,PokemonS6EP01.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E01 - Get the Show on the Road!" tvg-logo="https://image.tmdb.org/t/p/w500/jMC0KtCoU4mMNhH6luzpNy3LIbV.jpg" group-title="Pokemon Season 6",Pokemon - S06E01 - Get the Show on the Road!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP01.mp4
-#EXTINF:-1,PokemonS6EP02.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E02 - A Ruin with a View" tvg-logo="https://image.tmdb.org/t/p/w500/xj80j8w4mMt9rDRUfeRW2jx2Cdh.jpg" group-title="Pokemon Season 6",Pokemon - S06E02 - A Ruin with a View
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP02.mkv
-#EXTINF:-1,PokemonS6EP02.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E02 - A Ruin with a View" tvg-logo="https://image.tmdb.org/t/p/w500/xj80j8w4mMt9rDRUfeRW2jx2Cdh.jpg" group-title="Pokemon Season 6",Pokemon - S06E02 - A Ruin with a View
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP02.mp4
-#EXTINF:-1,PokemonS6EP03.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E03 - There's No Place Like Hoenn" tvg-logo="https://image.tmdb.org/t/p/w500/lpvKxTm5xACqvjdaXqUfRDXKdUo.jpg" group-title="Pokemon Season 6",Pokemon - S06E03 - There's No Place Like Hoenn
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP03.mkv
-#EXTINF:-1,PokemonS6EP03.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E03 - There's No Place Like Hoenn" tvg-logo="https://image.tmdb.org/t/p/w500/lpvKxTm5xACqvjdaXqUfRDXKdUo.jpg" group-title="Pokemon Season 6",Pokemon - S06E03 - There's No Place Like Hoenn
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP03.mp4
-#EXTINF:-1,PokemonS6EP04.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E04 - You Never Can Taillow!" tvg-logo="https://image.tmdb.org/t/p/w500/zdwtfRI69ZcOLRU5Ffag1kBT77u.jpg" group-title="Pokemon Season 6",Pokemon - S06E04 - You Never Can Taillow!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP04.mkv
-#EXTINF:-1,PokemonS6EP04.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E04 - You Never Can Taillow!" tvg-logo="https://image.tmdb.org/t/p/w500/zdwtfRI69ZcOLRU5Ffag1kBT77u.jpg" group-title="Pokemon Season 6",Pokemon - S06E04 - You Never Can Taillow!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP04.mp4
-#EXTINF:-1,PokemonS6EP05.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E05 - In the Knicker of Time!" tvg-logo="https://image.tmdb.org/t/p/w500/eiTqrMOxqnkCn8aQntkizBJUyrh.jpg" group-title="Pokemon Season 6",Pokemon - S06E05 - In the Knicker of Time!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP05.mkv
-#EXTINF:-1,PokemonS6EP05.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E05 - In the Knicker of Time!" tvg-logo="https://image.tmdb.org/t/p/w500/eiTqrMOxqnkCn8aQntkizBJUyrh.jpg" group-title="Pokemon Season 6",Pokemon - S06E05 - In the Knicker of Time!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP05.mp4
-#EXTINF:-1,PokemonS6EP06.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E06 - A Poached Ego!" tvg-logo="https://image.tmdb.org/t/p/w500/ozwXrHraVLNPY4sXu3sxtiCJ8cc.jpg" group-title="Pokemon Season 6",Pokemon - S06E06 - A Poached Ego!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP06.mkv
-#EXTINF:-1,PokemonS6EP06.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E06 - A Poached Ego!" tvg-logo="https://image.tmdb.org/t/p/w500/ozwXrHraVLNPY4sXu3sxtiCJ8cc.jpg" group-title="Pokemon Season 6",Pokemon - S06E06 - A Poached Ego!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP06.mp4
-#EXTINF:-1,PokemonS6EP07.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E07 - Tree's a Crowd" tvg-logo="https://image.tmdb.org/t/p/w500/4XmPU5XwEBAsqqYGupcbjw1YD1s.jpg" group-title="Pokemon Season 6",Pokemon - S06E07 - Tree's a Crowd
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP07.mkv
-#EXTINF:-1,PokemonS6EP07.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E07 - Tree's a Crowd" tvg-logo="https://image.tmdb.org/t/p/w500/4XmPU5XwEBAsqqYGupcbjw1YD1s.jpg" group-title="Pokemon Season 6",Pokemon - S06E07 - Tree's a Crowd
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP07.mp4
-#EXTINF:-1,PokemonS6EP08.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E08 - A Tail with a Twist" tvg-logo="https://image.tmdb.org/t/p/w500/5ggvRuTPMpJFbzmsmjUaz3oZsG0.jpg" group-title="Pokemon Season 6",Pokemon - S06E08 - A Tail with a Twist
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP08.mkv
-#EXTINF:-1,PokemonS6EP08.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E08 - A Tail with a Twist" tvg-logo="https://image.tmdb.org/t/p/w500/5ggvRuTPMpJFbzmsmjUaz3oZsG0.jpg" group-title="Pokemon Season 6",Pokemon - S06E08 - A Tail with a Twist
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP08.mp4
-#EXTINF:-1,PokemonS6EP09.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E09 - Taming of the Shroomish" tvg-logo="https://image.tmdb.org/t/p/w500/g8LoZZ17ubN5RzaC90Gq0eLojO6.jpg" group-title="Pokemon Season 6",Pokemon - S06E09 - Taming of the Shroomish
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP09.mkv
-#EXTINF:-1,PokemonS6EP09.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E09 - Taming of the Shroomish" tvg-logo="https://image.tmdb.org/t/p/w500/g8LoZZ17ubN5RzaC90Gq0eLojO6.jpg" group-title="Pokemon Season 6",Pokemon - S06E09 - Taming of the Shroomish
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP09.mp4
-#EXTINF:-1,PokemonS6EP10.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E10 - You Said a Mouthful!" tvg-logo="https://image.tmdb.org/t/p/w500/rGxDkb5jAj5qtN0wetavYvNb6zP.jpg" group-title="Pokemon Season 6",Pokemon - S06E10 - You Said a Mouthful!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP10.mkv
-#EXTINF:-1,PokemonS6EP10.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E10 - You Said a Mouthful!" tvg-logo="https://image.tmdb.org/t/p/w500/rGxDkb5jAj5qtN0wetavYvNb6zP.jpg" group-title="Pokemon Season 6",Pokemon - S06E10 - You Said a Mouthful!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP10.mp4
-#EXTINF:-1,PokemonS6EP11.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E11 - A Bite to Remember" tvg-logo="https://image.tmdb.org/t/p/w500/1kg392v2rqib7DsJjrMqnMqJD1Q.jpg" group-title="Pokemon Season 6",Pokemon - S06E11 - A Bite to Remember
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP11.mkv
-#EXTINF:-1,PokemonS6EP11.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E11 - A Bite to Remember" tvg-logo="https://image.tmdb.org/t/p/w500/1kg392v2rqib7DsJjrMqnMqJD1Q.jpg" group-title="Pokemon Season 6",Pokemon - S06E11 - A Bite to Remember
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP11.mp4
-#EXTINF:-1,PokemonS6EP12.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E12 - The Lotad Lowdown" tvg-logo="https://image.tmdb.org/t/p/w500/cdNDpN6yY9zoLnkl6vDbTiFyaJS.jpg" group-title="Pokemon Season 6",Pokemon - S06E12 - The Lotad Lowdown
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP12.mkv
-#EXTINF:-1,PokemonS6EP12.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E12 - The Lotad Lowdown" tvg-logo="https://image.tmdb.org/t/p/w500/cdNDpN6yY9zoLnkl6vDbTiFyaJS.jpg" group-title="Pokemon Season 6",Pokemon - S06E12 - The Lotad Lowdown
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP12.mp4
-#EXTINF:-1,PokemonS6EP13.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E13 - All Things Bright and Beautifly!" tvg-logo="https://image.tmdb.org/t/p/w500/aDdHU0aiW3b9c8IkVK992SulL2E.jpg" group-title="Pokemon Season 6",Pokemon - S06E13 - All Things Bright and Beautifly!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP13.mkv
-#EXTINF:-1,PokemonS6EP13.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E13 - All Things Bright and Beautifly!" tvg-logo="https://image.tmdb.org/t/p/w500/aDdHU0aiW3b9c8IkVK992SulL2E.jpg" group-title="Pokemon Season 6",Pokemon - S06E13 - All Things Bright and Beautifly!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP13.mp4
-#EXTINF:-1,PokemonS6EP14.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E14 - All in a Day's Wurmple" tvg-logo="https://image.tmdb.org/t/p/w500/jodIUIETtgBDq8tcRuKqEr7Ycnu.jpg" group-title="Pokemon Season 6",Pokemon - S06E14 - All in a Day's Wurmple
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP14.mkv
-#EXTINF:-1,PokemonS6EP14.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E14 - All in a Day's Wurmple" tvg-logo="https://image.tmdb.org/t/p/w500/jodIUIETtgBDq8tcRuKqEr7Ycnu.jpg" group-title="Pokemon Season 6",Pokemon - S06E14 - All in a Day's Wurmple
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP14.mp4
-#EXTINF:-1,PokemonS6EP15.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E15 - Gonna Rule the School!" tvg-logo="https://image.tmdb.org/t/p/w500/oFRGxuZIvaBAwhJ2AhR70tMGatY.jpg" group-title="Pokemon Season 6",Pokemon - S06E15 - Gonna Rule the School!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP15.mkv
-#EXTINF:-1,PokemonS6EP15.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E15 - Gonna Rule the School!" tvg-logo="https://image.tmdb.org/t/p/w500/oFRGxuZIvaBAwhJ2AhR70tMGatY.jpg" group-title="Pokemon Season 6",Pokemon - S06E15 - Gonna Rule the School!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP15.mp4
-#EXTINF:-1,PokemonS6EP16.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E16 - The Winner by a Nosepass!" tvg-logo="https://image.tmdb.org/t/p/w500/s4N8FnSdk6AWL1T0UA3eiUZcZ1A.jpg" group-title="Pokemon Season 6",Pokemon - S06E16 - The Winner by a Nosepass!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP16.mkv
-#EXTINF:-1,PokemonS6EP16.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E16 - The Winner by a Nosepass!" tvg-logo="https://image.tmdb.org/t/p/w500/s4N8FnSdk6AWL1T0UA3eiUZcZ1A.jpg" group-title="Pokemon Season 6",Pokemon - S06E16 - The Winner by a Nosepass!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP16.mp4
-#EXTINF:-1,PokemonS6EP17.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E17 - Stairway to Devon" tvg-logo="https://image.tmdb.org/t/p/w500/6y6Bgc8Ctubo57TQvsJp43RPbpR.jpg" group-title="Pokemon Season 6",Pokemon - S06E17 - Stairway to Devon
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP17.mkv
-#EXTINF:-1,PokemonS6EP17.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E17 - Stairway to Devon" tvg-logo="https://image.tmdb.org/t/p/w500/6y6Bgc8Ctubo57TQvsJp43RPbpR.jpg" group-title="Pokemon Season 6",Pokemon - S06E17 - Stairway to Devon
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP17.mp4
-#EXTINF:-1,PokemonS6EP18.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E18 - On a Wingull and a Prayer!" tvg-logo="https://image.tmdb.org/t/p/w500/pAEfutNup3GqJKPXtcnvMLwSPLp.jpg" group-title="Pokemon Season 6",Pokemon - S06E18 - On a Wingull and a Prayer!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP18.mkv
-#EXTINF:-1,PokemonS6EP18.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E18 - On a Wingull and a Prayer!" tvg-logo="https://image.tmdb.org/t/p/w500/pAEfutNup3GqJKPXtcnvMLwSPLp.jpg" group-title="Pokemon Season 6",Pokemon - S06E18 - On a Wingull and a Prayer!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP18.mp4
-#EXTINF:-1,PokemonS6EP19.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E19 - Sharpedo Attack!" tvg-logo="https://image.tmdb.org/t/p/w500/isodZAbenh6sP9DBKtqWCVtr4C5.jpg" group-title="Pokemon Season 6",Pokemon - S06E19 - Sharpedo Attack!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP19.mkv
-#EXTINF:-1,PokemonS6EP19.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E19 - Sharpedo Attack!" tvg-logo="https://image.tmdb.org/t/p/w500/isodZAbenh6sP9DBKtqWCVtr4C5.jpg" group-title="Pokemon Season 6",Pokemon - S06E19 - Sharpedo Attack!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP19.mp4
-#EXTINF:-1,PokemonS6EP20.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E20 - Brave the Wave" tvg-logo="https://image.tmdb.org/t/p/w500/cDHiG4xPbL39fjzUeCm6UublBHl.jpg" group-title="Pokemon Season 6",Pokemon - S06E20 - Brave the Wave
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP20.mkv
-#EXTINF:-1,PokemonS6EP20.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E20 - Brave the Wave" tvg-logo="https://image.tmdb.org/t/p/w500/cDHiG4xPbL39fjzUeCm6UublBHl.jpg" group-title="Pokemon Season 6",Pokemon - S06E20 - Brave the Wave
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP20.mp4
-#EXTINF:-1,PokemonS6EP21.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E21 - Which Wurmple's Which?" tvg-logo="https://image.tmdb.org/t/p/w500/awwFCilg6TRUwjg0WY9zInViore.jpg" group-title="Pokemon Season 6",Pokemon - S06E21 - Which Wurmple's Which?
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP21.mkv
-#EXTINF:-1,PokemonS6EP21.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E21 - Which Wurmple's Which?" tvg-logo="https://image.tmdb.org/t/p/w500/awwFCilg6TRUwjg0WY9zInViore.jpg" group-title="Pokemon Season 6",Pokemon - S06E21 - Which Wurmple's Which?
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP21.mp4
-#EXTINF:-1,PokemonS6EP22.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E22 - A Hole Lotta Trouble" tvg-logo="https://image.tmdb.org/t/p/w500/8M4hVvPpbFZGfd0sDKtkYtqUY0x.jpg" group-title="Pokemon Season 6",Pokemon - S06E22 - A Hole Lotta Trouble
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP22.mkv
-#EXTINF:-1,PokemonS6EP22.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E22 - A Hole Lotta Trouble" tvg-logo="https://image.tmdb.org/t/p/w500/8M4hVvPpbFZGfd0sDKtkYtqUY0x.jpg" group-title="Pokemon Season 6",Pokemon - S06E22 - A Hole Lotta Trouble
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP22.mp4
-#EXTINF:-1,PokemonS6EP23.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E23 - Gone Corphishin'" tvg-logo="https://image.tmdb.org/t/p/w500/1RvUGWe5IuhZLy8cAWhp9gGw4EJ.jpg" group-title="Pokemon Season 6",Pokemon - S06E23 - Gone Corphishin'
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP23.mkv
-#EXTINF:-1,PokemonS6EP23.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E23 - Gone Corphishin'" tvg-logo="https://image.tmdb.org/t/p/w500/1RvUGWe5IuhZLy8cAWhp9gGw4EJ.jpg" group-title="Pokemon Season 6",Pokemon - S06E23 - Gone Corphishin'
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP23.mp4
-#EXTINF:-1,PokemonS6EP24.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E24 - A Corphish Out of Water" tvg-logo="https://image.tmdb.org/t/p/w500/b483FyeKvOlxMOu5g6dS4jI4pPt.jpg" group-title="Pokemon Season 6",Pokemon - S06E24 - A Corphish Out of Water
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP24.mkv
-#EXTINF:-1,PokemonS6EP24.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E24 - A Corphish Out of Water" tvg-logo="https://image.tmdb.org/t/p/w500/b483FyeKvOlxMOu5g6dS4jI4pPt.jpg" group-title="Pokemon Season 6",Pokemon - S06E24 - A Corphish Out of Water
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP24.mp4
-#EXTINF:-1,PokemonS6EP25.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E25 - A Mudkip Mission" tvg-logo="https://image.tmdb.org/t/p/w500/1PdCq0EXjxRAo6PdTN6FOAlQEN5.jpg" group-title="Pokemon Season 6",Pokemon - S06E25 - A Mudkip Mission
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP25.mkv
-#EXTINF:-1,PokemonS6EP25.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E25 - A Mudkip Mission" tvg-logo="https://image.tmdb.org/t/p/w500/1PdCq0EXjxRAo6PdTN6FOAlQEN5.jpg" group-title="Pokemon Season 6",Pokemon - S06E25 - A Mudkip Mission
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP25.mp4
-#EXTINF:-1,PokemonS6EP26.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E26 - Turning Over a Nuzleaf" tvg-logo="https://image.tmdb.org/t/p/w500/mq8856C6hE91d6m330Vs0lrJ8PR.jpg" group-title="Pokemon Season 6",Pokemon - S06E26 - Turning Over a Nuzleaf
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP26.mkv
-#EXTINF:-1,PokemonS6EP26.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E26 - Turning Over a Nuzleaf" tvg-logo="https://image.tmdb.org/t/p/w500/mq8856C6hE91d6m330Vs0lrJ8PR.jpg" group-title="Pokemon Season 6",Pokemon - S06E26 - Turning Over a Nuzleaf
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP26.mp4
-#EXTINF:-1,PokemonS6EP27.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E27 - A Three Team Scheme!" tvg-logo="https://image.tmdb.org/t/p/w500/3Fd7i26G6PgJrAgegUb1ffliOXh.jpg" group-title="Pokemon Season 6",Pokemon - S06E27 - A Three Team Scheme!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP27.mkv
-#EXTINF:-1,PokemonS6EP27.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E27 - A Three Team Scheme!" tvg-logo="https://image.tmdb.org/t/p/w500/3Fd7i26G6PgJrAgegUb1ffliOXh.jpg" group-title="Pokemon Season 6",Pokemon - S06E27 - A Three Team Scheme!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP27.mp4
-#EXTINF:-1,PokemonS6EP28.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E28 - Seeing Is Believing!" tvg-logo="https://image.tmdb.org/t/p/w500/fvI4yTrDvCFQzOrssfCJYHDznJC.jpg" group-title="Pokemon Season 6",Pokemon - S06E28 - Seeing Is Believing!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP28.mkv
-#EXTINF:-1,PokemonS6EP28.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E28 - Seeing Is Believing!" tvg-logo="https://image.tmdb.org/t/p/w500/fvI4yTrDvCFQzOrssfCJYHDznJC.jpg" group-title="Pokemon Season 6",Pokemon - S06E28 - Seeing Is Believing!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP28.mp4
-#EXTINF:-1,PokemonS6EP29.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E29 - Ready, Willing, and Sableye" tvg-logo="https://image.tmdb.org/t/p/w500/reUTcUhipAeze1JWydu6KFecGE.jpg" group-title="Pokemon Season 6",Pokemon - S06E29 - Ready, Willing, and Sableye
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP29.mkv
-#EXTINF:-1,PokemonS6EP29.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E29 - Ready, Willing, and Sableye" tvg-logo="https://image.tmdb.org/t/p/w500/reUTcUhipAeze1JWydu6KFecGE.jpg" group-title="Pokemon Season 6",Pokemon - S06E29 - Ready, Willing, and Sableye
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP29.mp4
-#EXTINF:-1,PokemonS6EP30.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E30 - A Meditite Fight!" tvg-logo="https://image.tmdb.org/t/p/w500/kNdWqFcS64N9qJiJFi9srQWpx3B.jpg" group-title="Pokemon Season 6",Pokemon - S06E30 - A Meditite Fight!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP30.mkv
-#EXTINF:-1,PokemonS6EP30.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E30 - A Meditite Fight!" tvg-logo="https://image.tmdb.org/t/p/w500/kNdWqFcS64N9qJiJFi9srQWpx3B.jpg" group-title="Pokemon Season 6",Pokemon - S06E30 - A Meditite Fight!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP30.mp4
-#EXTINF:-1,PokemonS6EP31.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E31 - Just One of the Geysers" tvg-logo="https://image.tmdb.org/t/p/w500/od9aSuxH8MfVkBZObVUEjz2fQUZ.jpg" group-title="Pokemon Season 6",Pokemon - S06E31 - Just One of the Geysers
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP31.mkv
-#EXTINF:-1,PokemonS6EP31.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E31 - Just One of the Geysers" tvg-logo="https://image.tmdb.org/t/p/w500/od9aSuxH8MfVkBZObVUEjz2fQUZ.jpg" group-title="Pokemon Season 6",Pokemon - S06E31 - Just One of the Geysers
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP31.mp4
-#EXTINF:-1,PokemonS6EP32.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E32 - Abandon Ship!" tvg-logo="https://image.tmdb.org/t/p/w500/pVi1rWqquTFcSft9INKs8LxHLcE.jpg" group-title="Pokemon Season 6",Pokemon - S06E32 - Abandon Ship!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP32.mkv
-#EXTINF:-1,PokemonS6EP32.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E32 - Abandon Ship!" tvg-logo="https://image.tmdb.org/t/p/w500/pVi1rWqquTFcSft9INKs8LxHLcE.jpg" group-title="Pokemon Season 6",Pokemon - S06E32 - Abandon Ship!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP32.mp4
-#EXTINF:-1,PokemonS6EP33.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E33 - Now That's Flower Power!" tvg-logo="https://image.tmdb.org/t/p/w500/e0IRhyPdHkJXy9bnhq6ugvemUnn.jpg" group-title="Pokemon Season 6",Pokemon - S06E33 - Now That's Flower Power!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP33.mkv
-#EXTINF:-1,PokemonS6EP33.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E33 - Now That's Flower Power!" tvg-logo="https://image.tmdb.org/t/p/w500/e0IRhyPdHkJXy9bnhq6ugvemUnn.jpg" group-title="Pokemon Season 6",Pokemon - S06E33 - Now That's Flower Power!
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP33.mp4
-#EXTINF:-1,PokemonS6EP34.mkv
+#EXTINF:-1 tvg-name="Pokemon - S06E34 - Having a Wailord of a Time" tvg-logo="https://image.tmdb.org/t/p/w500/hTLBNcY8mL5NULsUHNecf4aiXQB.jpg" group-title="Pokemon Season 6",Pokemon - S06E34 - Having a Wailord of a Time
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP34.mkv
-#EXTINF:-1,PokemonS6EP34.mp4
+#EXTINF:-1 tvg-name="Pokemon - S06E34 - Having a Wailord of a Time" tvg-logo="https://image.tmdb.org/t/p/w500/hTLBNcY8mL5NULsUHNecf4aiXQB.jpg" group-title="Pokemon Season 6",Pokemon - S06E34 - Having a Wailord of a Time
 https://archive.org/download/pokemon-s-6-ep-01/PokemonS6EP34.mp4
+

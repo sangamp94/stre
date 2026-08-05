@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "maintenance": true,
+  "maintenance": false,
   "forceUpdate": false,
   "minVersion": 1,
   "latestVersion": 2,
-  "message": "⚠️ Streamify is currently under maintenance. We’re working to improve your experience. Please try again later.",
+  "message": "Welcome to Streamify IPTV Player",
   "updateUrl": "https://strea.site.je/"
 }
